@@ -25,4 +25,4 @@ g++ main.cpp -o programa
 # aqui abajo
 
 ``` id="t0pbhi"
-Agrego README
+Corrijo README
