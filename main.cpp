@@ -1,3 +1,5 @@
+// el sistema de turnos - Examen Estructuras de Datos
+//Mejoras al codigo
 #include <iostream>
 using namespace std;
 
