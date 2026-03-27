@@ -22,7 +22,5 @@ g++ main.cpp -o programa
 ./programa
 
 
-# aqui abajo
-
-``` id="t0pbhi"
-Corrijo README
+``` id="finalcommit"
+Mejora README final
